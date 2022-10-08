@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+<h2>XCPB CORPORATION</h2>
 </div>
 </br>
 <div align="center">
